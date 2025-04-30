@@ -37,5 +37,5 @@ DEBUG --> INFO etc.
 
 **UML Class Diagram**
 
-![UML Diagram](docs/UMLClassDiagram.jpeg)
+![UML Diagram](logger/docs/UMLClassDiagram.jpeg)
 
