@@ -33,3 +33,9 @@ mvn exec:java -Dexec.mainClass="com.logger.Main"
 In the assignment I addressed to log level hierarchy as follows:
 INFO --> DEBUG --> ERROR as written in instructions although convention AFAIK is 
 DEBUG --> INFO etc. 
+
+
+**UML Class Diagram**
+
+![UML Diagram](docs/UMLClassDiagram.jpeg)
+
